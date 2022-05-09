@@ -13,7 +13,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="80" height="60" />
   </a>
 </p>
-
+<br>
+<h1 align="center">About Me</h1>
+<p align="center">
+  My main programming language is Java, I've been using it for over 5 years.
+  <br>
+  My favorite food is cheese
+</p>
+<br>
+<h1 align="center">Knowledge</h1>
+<p align="center" markdown="1">
+   Java - 5 Years of experience
+   <br>
+   SpigotAPI - 1.5 Years of experience
+   <br>
+   NodeJS - 2 Years of experience
+   <br>
+   JavaScript - 3 Years of experience
+   <br>
+   and More!
+</p>
 <!--
 **IkeVoodoo/IkeVoodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
