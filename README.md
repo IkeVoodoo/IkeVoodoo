@@ -1,4 +1,4 @@
-<p align="center">#Technologies</p>
+<h1><p align="center">Technologies</p></h1>
 
 <!--
 **IkeVoodoo/IkeVoodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
