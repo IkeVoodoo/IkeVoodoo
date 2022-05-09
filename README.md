@@ -1,7 +1,7 @@
 <h1 align="center">Technologies</h1>
 <p align="center">
   <a href="https://java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="30" />
   </a>
 </p>
 
