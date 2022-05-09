@@ -6,6 +6,9 @@
   <a href="https://javascript.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java" width="80" height="60" />
   </a>
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="java" width="80" height="60" />
+  </a>
 </p>
 
 <!--
