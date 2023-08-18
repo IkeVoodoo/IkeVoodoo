@@ -20,7 +20,7 @@
    <br>
    SpigotAPI - 2.5 Years of experience
    <br>
-   Kotlin - 1 Year of experience
+   Kotlin - 2 Years of experience
 </p>
 <!--
 **IkeVoodoo/IkeVoodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
