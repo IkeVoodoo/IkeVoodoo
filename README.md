@@ -3,15 +3,11 @@
   <a href="https://java.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="80" height="60" />
   </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="80" height="60" />
-  </a>
-
 </p>
 <br>
 <h1 align="center">About Me</h1>
 <p align="center">
-  Primarily a Java/Kotlin developer focused on Bukkit/Spigot development.
+  Primarily a Java developer focused on Bukkit/Spigot development.
 </p>
 <br>
 <h1 align="center">Knowledge</h1>
@@ -19,8 +15,6 @@
    Java - 6.5 Years of experience
    <br>
    SpigotAPI - 2.5 Years of experience
-   <br>
-   Kotlin - 2 Years of experience
 </p>
 <!--
 **IkeVoodoo/IkeVoodoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
